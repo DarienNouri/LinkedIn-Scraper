@@ -1,0 +1,660 @@
+{
+    "entity": {
+        "page_type": "person",
+        "First": "Lex",
+        "Last": "Fridman",
+        "Headline": "Research Scientist, MIT",
+        "Location": "No_Location",
+        "Followers": "565,285 followers",
+        "Bio": "Research in AI, human-robot interaction, autonomous vehicles, and machine learning at MIT.",
+        "Gender": "male",
+        "RefrenceURL": "https://www.linkedin.com/in/lexfridman/",
+        "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+    },
+    "education": [
+        {
+            "institution": "Drexel University",
+            "degree": "Doctor of Philosophy (Ph.D.), Computer Science",
+            "date": "2014",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        }
+    ],
+    "expierence": [
+        {
+            "company": "Massachusetts Institute of Technology (MIT)",
+            "date": "2015 - Present \u00b7 7 yrs 8 mos",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "company": "Google",
+            "date": "2014 - 2015 \u00b7 1 yr",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        }
+    ],
+    "posts": [
+        {
+            "date": "2022-08-27",
+            "text": "Here's my conversation with Magnus Carlsen, World Chess Champion, highest-rated chess player in history, and widely considered to be the greatest chess player of all time.",
+            "likes": "1,659",
+            "comments": "56 comments",
+            "hash_md5_unique": "298728a9a3e40f8bef60f1d5240e3765",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-27",
+            "text": "I am not right wing or left wing. I am a human being who listens, empathizes, learns, and thinks.People want to assign labels to each other so they can judge without trying to understanding a person.Labels lessen our capacity for empathy and free thought.",
+            "likes": "7,482",
+            "comments": "303 comments",
+            "hash_md5_unique": "b7f0e0cfc42562882a6bd83a4391ccb3",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-26",
+            "text": "Each of us is capable of evil.",
+            "likes": "1,755",
+            "comments": "194 comments",
+            "hash_md5_unique": "aa489fe4d3836338807bf686249aadd0",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-25",
+            "text": "Here's my conversation with Liv Boeree about poker, game theory, complexity, AI, and life. Liv is a poker champion, science educator, and has quickly become a good friend. This conversation was fascinating, eye-opening, and fun.",
+            "likes": "1,063",
+            "comments": "40 comments",
+            "hash_md5_unique": "00311883fa3022e8fa0f2a804abc0c73",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-25",
+            "text": "Student loan system in America has become a scam that puts young people into a financial and psychological hole that they often spend their whole life trying to get out of.",
+            "likes": "5,738",
+            "comments": "537 comments",
+            "hash_md5_unique": "7e773199cc2c13a9b107c6b743af7da8",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-24",
+            "text": "Ideas are easy. Execution is hard.",
+            "likes": "14,130",
+            "comments": "409 comments",
+            "hash_md5_unique": "3622c9a757f80653903bc571492fba73",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-22",
+            "text": "Everything is possible.",
+            "likes": "4,585",
+            "comments": "281 comments",
+            "hash_md5_unique": "419486e66fc132ed392b7f4829d955c6",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-21",
+            "text": "Here's my conversation with Jordan Peterson about Nietzsche, Dostoevsky, Putin, the search for meaning, the corrupting effects of fame & power, and advice on how to think and how to live. This conversation was intense, challenging, and fascinating.",
+            "likes": "5,128",
+            "comments": "271 comments",
+            "hash_md5_unique": "1711908783f0b373309cfd3a2c7c1235",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-21",
+            "text": "People who take big risks in pursuit of a dream are fun to watch and cheer on.",
+            "likes": "9,429",
+            "comments": "167 comments",
+            "hash_md5_unique": "762259b65066ad2babc4ce4ae5f13480",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-21",
+            "text": "When people ask me who I voted for. Now you know.",
+            "likes": "207",
+            "comments": "18 comments",
+            "hash_md5_unique": "ec84c78237e053f236dda724854cabdd",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-21",
+            "text": "Here's my conversation with Duncan Trussell, a comedian, host of The Duncan Trussell Family Hour, and one of the most fun, kind, brilliant, and beautiful human beings I've ever met. It's an honor to now be able to call him a friend. This chat was wild! https://lnkd.in/esdU4U_n",
+            "likes": "595",
+            "comments": "27 comments",
+            "hash_md5_unique": "e2e41158537f732b20d001f57bffbee4",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-21",
+            "text": "Thank you for the happy birthday wishes. I'm grateful to be alive, together with 8 billion beautiful humans on this amazing little planet of ours. I love you all!",
+            "likes": "2,945",
+            "comments": "187 comments",
+            "hash_md5_unique": "758f5733927de1fcc060a353c3896a6b",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-21",
+            "text": "I try to assume the best intention in the actions of others. The internet too often seems to want to do the opposite. I think the former is way better than the latter if your goal is to be productive, gain understanding, solve problems, and find happiness in this life.",
+            "likes": "3,412",
+            "comments": "104 comments",
+            "hash_md5_unique": "7c60b4cbb9ab7aad0e1e74b4595089a2",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-14",
+            "text": "I wish there was a search engine for physical reality.",
+            "likes": "2,635",
+            "comments": "132 comments",
+            "hash_md5_unique": "d4ac22e768cec97ea8a484f22ac85292",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-14",
+            "text": "Here's my conversation with Magatte Wade about Africa, communism, capitalism, and the role of economic freedom in empowering nations to flourish. Magatte is an amazing human being with a powerful vision for Africa & for the future of humanity.",
+            "likes": "501",
+            "comments": "24 comments",
+            "hash_md5_unique": "81ca67b52dc46f8fbd403bee1c6af16b",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-14",
+            "text": "Introvert mood",
+            "likes": "6,164",
+            "comments": "93 comments",
+            "hash_md5_unique": "023a97e756d9fa71e550de8bc0ba0f81",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-14",
+            "text": "I ran into Vitalik Buterin yesterday, and had a brief chat. Ethereum is likely moving from proof-of-work to proof-of-stake next month. This \"merge\" is an important moment in the history of crypto. Good luck to everyone involved! Vitalik and I will do a podcast after The Merge.",
+            "likes": "15,825",
+            "comments": "524 comments",
+            "hash_md5_unique": "031dc20da881e1950e26814bd3966fb1",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-14",
+            "text": "I'm chatting with Magnus Carlsen, current World Chess Champion, on the podcast soon. If you have questions or topics you'd like to see covered, let me know, from high-level ideas to specific chess games, positions, and moves.",
+            "likes": "4,932",
+            "comments": "453 comments",
+            "hash_md5_unique": "dfa4d85548837d4d15728edc43652d03",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-14",
+            "text": "Can's search for meaning",
+            "likes": "2,499",
+            "comments": "102 comments",
+            "hash_md5_unique": "c0311f343a026f322a48f9b5b1820d8c",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-14",
+            "text": "Here's my conversation with Andrew Bustamante, a former CIA covert intelligence officer. We talk all about the CIA, Mossad, MSS, MI6, FSB, and other intelligence agencies, including topics of secrecy, mass surveillance, espionage techniques, geopolitics, and war.",
+            "likes": "575",
+            "comments": "51 comments",
+            "hash_md5_unique": "8bd03042105eae123d53c928828f0783",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-07",
+            "text": "Back to running daily in Austin heat. 13 miles, 2 hours. First hour is meditation. Second hour is listening to an audiobook, currently The Gulag Archipelago by Solzhenitsyn. The face in the pic is result of 100 degree heat & listening to accounts of torture in the Gulag.",
+            "likes": "4,080",
+            "comments": "202 comments",
+            "hash_md5_unique": "375917a0e8a8b563c967ba5f810adbbb",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-07",
+            "text": "I believe in the power of conversation (between leaders) to help avoid World War III. This requires of our leaders: strength of character, empathy, emotional intelligence, and deep historical knowledge of the nations involved.",
+            "likes": "1,859",
+            "comments": "137 comments",
+            "hash_md5_unique": "bcc4160fc3eedc7abe71dc3d3c581082",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-07",
+            "text": "\ud83e\udd2f",
+            "likes": "12,307",
+            "comments": "250 comments",
+            "hash_md5_unique": "494d9a0d3da87ceda895bce6fce6120b",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-07",
+            "text": "Here's my conversation with Ryan Graves, former Navy fighter pilot and aerospace engineer. Ryan and his F/A-18F squadron detected UFOs in 2014-15. We discuss these UFO sightings and explore the technology of modern fighter jets.",
+            "likes": "237",
+            "comments": "18 comments",
+            "hash_md5_unique": "73ec09131041d8057538da196162fc34",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-07",
+            "text": "People affected by propaganda are rarely able to admit it to themselves until it's too late.It's good to ask yourself regularly: What do I believe to be true that might in fact be completely wrong?Think for yourself.",
+            "likes": "6,766",
+            "comments": "222 comments",
+            "hash_md5_unique": "ca02132393bb17b561f63ae98e80a0dd",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-08-07",
+            "text": "Programming in a nutshell.",
+            "likes": "15,121",
+            "comments": "267 comments",
+            "hash_md5_unique": "b018fb6da9da8d3e3e616392991c3913",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Truth\ud83e\udd23",
+            "likes": "7,598",
+            "comments": "176 comments",
+            "hash_md5_unique": "437476129766d54b29b74701e007ec04",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Here's my conversation with Oriol Vinyals, Research Director and Deep Learning Lead at DeepMind. He is one of the most brilliant researchers in AI, and so it's always fun to sit down with him to chat about both technical & philosophical topics.",
+            "likes": "744",
+            "comments": "13 comments",
+            "hash_md5_unique": "b0e11e0d25edf9c96af11813fa54edca",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "War is hell. I keep thinking about the cold ruthlessness of a rocket tearing through the air toward a building full of human beings who have only a few seconds left to live. That one rocket creates suffering and hatred in the hearts of thousands for many years to come.",
+            "likes": "1,781",
+            "comments": "90 comments",
+            "hash_md5_unique": "12c346c89ce413c4ccc04dc3e70b4366",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "I'm a very lucky human.",
+            "likes": "3,771",
+            "comments": "132 comments",
+            "hash_md5_unique": "83d7ae6a513e43fec75b0aa8f368ae97",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Here's my conversation with Martin Rees, cosmologist and astrophysicist at Cambridge. We talk about black holes, dark matter, alien life, the Big Bang, space exploration, robots, and existential threats to human civilization.",
+            "likes": "972",
+            "comments": "32 comments",
+            "hash_md5_unique": "b90e3e8d188fa8e33a0262a1bde52606",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "I went to the war front in Ukraine to feel the war directly and to listen to the people who are living through it. This experience gave me a deeper understanding of pain and love, and has strengthened my belief in the human spirit. I'll publish what I recorded in a few weeks.",
+            "likes": "3,742",
+            "comments": "88 comments",
+            "hash_md5_unique": "3c2643847541e37f680bbea6474f96ac",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Here's my conversation with Steve Keen about Marxism, capitalism, history of ideas in economics (both good and bad), and how to avoid a global economic collapse.",
+            "likes": "482",
+            "comments": "20 comments",
+            "hash_md5_unique": "1cbac362035c68b2dfd12ca5992c4c61",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Hate is a poison that destroys the mind. Choose love.",
+            "likes": "4,842",
+            "comments": "132 comments",
+            "hash_md5_unique": "1405ddbae54d124e3c5e8d41151601c7",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Politicians and the media often turn people against each other. Resist it. Choose love.",
+            "likes": "4,710",
+            "comments": "114 comments",
+            "hash_md5_unique": "406335ac9aeea2d60525c72026216fc6",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Here's my conversation with Richard Haier, psychologist specializing in the science of human intelligence. This is a controversial topic, but an important one for understanding the human mind.",
+            "likes": "511",
+            "comments": "14 comments",
+            "hash_md5_unique": "6eebfb0fd0ac8a5033149b990b3615c0",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "It was great meeting a fellow Texan Tim Kennedy here in Ukraine. I'm inspired by his never-ending willingness to help people in need, even in the most dangerous situations.",
+            "likes": "6,867",
+            "comments": "184 comments",
+            "hash_md5_unique": "105f60e3d7135bca68a9208e8b830c1f",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Met my robot brother in Kyiv. Always good to see family. Thanks to the amazing folks at Roosh for having me. Special thanks to Sergey Tokarev, Hanna Shuvalova, Bogdan Ponomar, and Den Dmitrenko \ud83c\udfc1 for everything you do for the AI community here. Ukraine has some of the best engineers & tech minds in the world.",
+            "likes": "4,318",
+            "comments": "66 comments",
+            "hash_md5_unique": "de7880a6a542425a079b44e1a246c7fa",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-07-28",
+            "text": "Here's my conversation with Joe Rogan on episode 300 of the podcast. I feel truly lucky and grateful to be alive, to get to meet and become friends with the people who I admire, and to receive so much love from folks along the way. Happy 4th of July!",
+            "likes": "3,176",
+            "comments": "93 comments",
+            "hash_md5_unique": "16028d3e2a5596418e79efd1ea05d8ed",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Here's my conversation with Demis Hassabis, CEO of DeepMind, a company behind some of the biggest breakthroughs in the history of AI and science in general. Demis is a brilliant and kind human being. This chat was truly an honor and a pleasure for me.",
+            "likes": "1,558",
+            "comments": "55 comments",
+            "hash_md5_unique": "4bd4d6e57758b2b9016104d749dadd8a",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I met and talked with Jony Ive over coffee yesterday. He is a legendary designer behind the iMac, iPod, iPhone, iPad, MacBook, and he's a great human being who I've looked up to for a long time. We agreed to do a podcast when I'm back from Eastern Europe. Life is beautiful.",
+            "likes": "10,657",
+            "comments": "181 comments",
+            "hash_md5_unique": "e9ec7a9a07f072cf0e8af1cbac485913",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I'm traveling around Europe. If you can suggest recording/office space or can be a tour guide to interesting local places, please let me know here: https://lnkd.in/ezbBDbxe",
+            "likes": "1,335",
+            "comments": "267 comments",
+            "hash_md5_unique": "c03d98ad0c7e958a3d5228f483164b2e",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Here's my conversation with Susan Cain about the power of introverts and on why people love sad songs. This was a fun, relaxing chat between two introverts who love sad songs ;-) especially Leonard Cohen.",
+            "likes": "684",
+            "comments": "46 comments",
+            "hash_md5_unique": "199aec38b4c10e077f4f00808c9057fb",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I need a neural net that generates my plan for the day, with one of three modes to choose from:1. Maximize productivity2. Maximize chill3. Maximize weirdness & adventure",
+            "likes": "4,228",
+            "comments": "218 comments",
+            "hash_md5_unique": "290de2a98a49b7153e696e652ff9e617",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I'm visiting DeepMind soon to talk about AI. Should be fun.",
+            "likes": "4,819",
+            "comments": "80 comments",
+            "hash_md5_unique": "6532631c460c6a6e3ba90d78601d216a",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Noone is perfect. If you look for the bad you will find it. If you look for the good, you will find it. Choose wisely what you look for.",
+            "likes": "4,700",
+            "comments": "113 comments",
+            "hash_md5_unique": "5feca5963261b6934c4634abbc1d68ff",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Here's my conversation with Douglas Murray, author of Madness of Crowds and The War on the West. He makes the case against cultural Marxism and the war on Western values, providing a countervailing perspective to the previous episode.",
+            "likes": "503",
+            "comments": "35 comments",
+            "hash_md5_unique": "d7e31a6c59cbe5cde42fd77cf6a7db5e",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "\"In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted.\" - Bertrand Russell",
+            "likes": "1,404",
+            "comments": "34 comments",
+            "hash_md5_unique": "1f8dd007b84186bcf51e756f3b78d084",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I went down the rabbit hole reading about how harvester heads work and now I'm glad they're not controlled by AI.",
+            "likes": "3,337",
+            "comments": "231 comments",
+            "hash_md5_unique": "ff4cb7bf87eed152f4eb6130ddf0bbbb",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Human interaction is complicated.",
+            "likes": "15,383",
+            "comments": "375 comments",
+            "hash_md5_unique": "0213f06928eda938fa1f24712715c628",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I have a sneaking suspicion that this is how the world will end: due to a small typo in one line of code. For now, I'm more concerned about debugging than about superintelligence.",
+            "likes": "5,353",
+            "comments": "220 comments",
+            "hash_md5_unique": "0eafece7b3b0da2120e3e647d0c8b286",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Here's my conversation with Tony Fadell, co-creator of the iPhone, iPod, and Nest. Tony is a legendary designer, engineer, leader, and a great human being who built some of the most incredible and impactful technologies in history. This was fun.",
+            "likes": "598",
+            "comments": "29 comments",
+            "hash_md5_unique": "58e1047fd11919b7ec109b4bc75670c5",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I'd rather be full of love than full of knowledge, though one helps grow the other.",
+            "likes": "2,480",
+            "comments": "64 comments",
+            "hash_md5_unique": "4732f35b35a13f6927a5ec5e19d6e785",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Ran 13 miles in 100 degree heat today to give me something to remember Austin fondly by. It felt surprisingly good mentally. Water and electrolytes were a big help.",
+            "likes": "5,290",
+            "comments": "175 comments",
+            "hash_md5_unique": "80b9b9f2e606486b4e26ca433c19fed6",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Here's my conversation with Donald Hoffman, author of The Case Against Reality, who argues that what our eyes see is completely detached from objective reality. It's not just an abstraction, it's a complete illusion. This was literally mind-blowing.",
+            "likes": "746",
+            "comments": "81 comments",
+            "hash_md5_unique": "29c3a4393155aa131e06b4c22543075b",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I created a Telegram channel while I'm traveling in Eastern Europe & other places, since Telegram is a great place for info & perspectives on international affairs. Join if you like: https://lnkd.in/gSDuCiMaPS: There are now more & more Lex Fridman bots. I'm not the only one :-(",
+            "likes": "636",
+            "comments": "34 comments",
+            "hash_md5_unique": "517aee4fdc12da5933aab9011100ee8d",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "I wish I could just delete bad memories and keep only the good ones, but the brain's memory retention algorithm seems to require that I first accept the bad memories and learn from them before they can be deleted.",
+            "likes": "4,134",
+            "comments": "226 comments",
+            "hash_md5_unique": "14aa0e7b8a186d4b69c63312a26be4dd",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Here's my 4+ hour conversation with Robin Hanson about aliens, expansion of alien civilizations through our universe, origins of life on Earth, economics of human behavior, and how the human mind deceives itself. This was a fun & mind-blowing conversation!",
+            "likes": "377",
+            "comments": "19 comments",
+            "hash_md5_unique": "a6e63f2c8da630a6854fe6a908147290",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Web design should be simple.",
+            "likes": "9,642",
+            "comments": "254 comments",
+            "hash_md5_unique": "8c224e88722c9956e30a5da4097eabba",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "Hugs are the best. Handshakes too.Human interaction is simple.",
+            "likes": "2,480",
+            "comments": "78 comments",
+            "hash_md5_unique": "1d280e3ed899613c3bf8e96e102e5bea",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-06-28",
+            "text": "We're only 20% done with this century, there's lots more fun still ahead!",
+            "likes": "3,015",
+            "comments": "156 comments",
+            "hash_md5_unique": "a020a51dddf3d19d814ceb77415f842b",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Here's my conversation with Jonathan Haidt. He gives a respectful but hard-hitting response to my conversation with Mark Zuckerberg. We discuss what's broken with Twitter, Instagram, Facebook, and social media, and how we can fix it.",
+            "likes": "773",
+            "comments": "37 comments",
+            "hash_md5_unique": "f35e39b12e3c19501505ce21cf91c919",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Quantum Bogosort is a sorting algorithm:1. Shuffle list randomly.2. If it's sorted, stop.3. If it's not sorted, destroy the universe.Given many-worlds interpretation of QM, 1+ universes will survive with a sorted list. This is O(n) assuming destroying the universe is O(1).",
+            "likes": "2,386",
+            "comments": "139 comments",
+            "hash_md5_unique": "0fd196998c642dddff65bf80bed52e00",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Johnny Depp wins. I hope this sends a strong message to companies and the media not to rush to judgement.",
+            "likes": "7,256",
+            "comments": "172 comments",
+            "hash_md5_unique": "52d6fcbb5087aa24c400253c94137804",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Consciousness is more important than intelligence.",
+            "likes": "5,121",
+            "comments": "262 comments",
+            "hash_md5_unique": "ccece9ea647cabc7d5029e0e7226b8f5",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Reunited with an old friend. There are only 2 material possessions that mean something to me in this world. One is my watch. The other is this guitar.I plugged it in yesterday and played Hendrix until everything made sense with the world. Music is magic.",
+            "likes": "6,133",
+            "comments": "244 comments",
+            "hash_md5_unique": "9e926026afe0aa17f8fa97d4b949e406",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "One person can change the world. That person can be you.",
+            "likes": "2,888",
+            "comments": "115 comments",
+            "hash_md5_unique": "635d99fb8c37a90bafc689a2ee2e4ac5",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Everyone is a victim of someone's propaganda.",
+            "likes": "2,084",
+            "comments": "62 comments",
+            "hash_md5_unique": "a6d9555c873128caa31eaf643644dd35",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "My takeaways from Johnny Depp vs Amber Heard trial:1. Fame is one hell of a drug (for some).2. Psychiatrists & lawyers come in drastically varying levels of skill.3. Lying to millions of people is something humans are capable of.4. Love can be messy.5. Mega pint of wine.",
+            "likes": "4,678",
+            "comments": "243 comments",
+            "hash_md5_unique": "2efcc8e0352d7ff27bf93f957360ad8f",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "If you're struggling today, hang in there. We're in this together.",
+            "likes": "4,743",
+            "comments": "71 comments",
+            "hash_md5_unique": "83fe943c46721f217fddfbd049b8df91",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "I really enjoyed my conversation with Joe Rogan on his podcast. The episode is out now. He is one of my favorite humans beings in this world to talk to, on and off mic. It's a pleasure and honor to be able to call him a friend.",
+            "likes": "2,874",
+            "comments": "58 comments",
+            "hash_md5_unique": "bddcf23dc69a7faa27f1ef3797096455",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Here's my conversation with Stephen Kotkin, a historian of Stalin, Russia, the Soviet Union, and Eastern Europe. He provides a hard-hitting response to the Oliver Stone conversation, and details his perspective on Putin, Zelenskyy, and the war in Ukraine.",
+            "likes": "302",
+            "comments": "22 comments",
+            "hash_md5_unique": "e4efeb6e9b2d0e852db337a37cf0d722",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "If I was a bot, would I know I was a bot, or would I think I'm human?",
+            "likes": "1,216",
+            "comments": "295 comments",
+            "hash_md5_unique": "1dfea2b3be1389bcf154612750fa1653",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Here's my conversation with Bobby Lee, one of the funniest and sweetest human beings on the planet. I've been a big fan of his for many years, so this was an especially surreal and fun rollercoaster ride of a conversation.",
+            "likes": "457",
+            "comments": "21 comments",
+            "hash_md5_unique": "3aef95d1bcb3fbe4a03fce4458793aeb",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Modern politics seems to be interested in maximizing drama instead of solving problems.",
+            "likes": "5,527",
+            "comments": "238 comments",
+            "hash_md5_unique": "bb266c51113f30284e87a96f8ff78acd",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "\"I mean, what's the worst that could happen?\" is somehow both the best and the worst question to ask when considering whether to do something.",
+            "likes": "1,582",
+            "comments": "67 comments",
+            "hash_md5_unique": "739cfeabc134f8da5cd8e26379fb600f",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "Here's my conversation with Oliver Stone about Vladimir Putin and the war in Ukraine. He is a filmmaker with 3 Oscar wins & 11 Oscar nominations for films about war and power. He has interviewed Fidel Castro, Hugo Chavez, and Vladimir Putin.",
+            "likes": "544",
+            "comments": "50 comments",
+            "hash_md5_unique": "6cb17bfbfee369d6d86cdc81b5f121ba",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        },
+        {
+            "date": "2022-05-28",
+            "text": "We spend more time anticipating or remembering moments than actually experiencing them. Our brains are mostly anticipation and memory replay machines.",
+            "likes": "3,842",
+            "comments": "110 comments",
+            "hash_md5_unique": "6738b54e6a5c5fe22b6eaa27ce2a06ac",
+            "hash_md5": "a03dea2cfc16f821a2278dfbd6f17b6a"
+        }
+    ]
+}
